@@ -1,0 +1,9 @@
+Restructured API routes for better scalability, added proper error handling, and improved response consistency.
+
+Suggested PR Comments:
+
+"Nice refactor! Can you also add API versioning for future updates?"
+
+"Consider adding pagination for the GET /tasks endpoint to improve performance."
+
+"Code looks great; minor suggestion: use consistent naming for response objects."
